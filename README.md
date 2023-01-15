@@ -1,9 +1,6 @@
-![](./media/Evzen_profile.png)
----
+<h1 align="left">Hi 👋, I'm Evzen</h1>
 
-<h1 align="center">Hi 👋, I'm Evzen</h1>
-
-<h3 align="center">A passionate student who wants to learn more about programming</h3>
+<h3 align="left">A passionate student who wants to learn more about programming</h3>
 
 ---
 
